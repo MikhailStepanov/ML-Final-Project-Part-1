@@ -8,3 +8,5 @@ of credit. It is five times more ‘expensive’ for the bank to rate a customer
 Missing values of some features were predicted by using of linear regression. 
 Logistic regression was used, to predict the creditworthy of clients in terms of probabilities.
 The threshold in logistic regression for assignement the client as creditworthy was adjusted by using of weighted sum of False Negatives and False Positives.
+
+The final grade for this project was 2,3. 
