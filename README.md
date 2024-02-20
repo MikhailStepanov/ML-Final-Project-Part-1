@@ -1,4 +1,4 @@
-This is a final project for the machine course (Intelligent Datenanalysis & Machine Learning I) at the university of Potsdam (Master of Science). 
+This is a final project for the machine learning course (Intelligent Datenanalysis & Machine Learning I) at the university of Potsdam (Master of Science). 
 It is a binary classification task for prediction of a Creditworthiness of bank clients. 
 The problem setting looked as follows:
 
